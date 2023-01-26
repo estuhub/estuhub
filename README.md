@@ -1,12 +1,14 @@
-### Hi there 👋
+- 👋 Hi, I'm @estuhub. You can call me Ester.
+- 🔭 I’m currently working on my portfolio website with different styles.
+- 🌱 I enjoy building projects that involves JS, CSS & React.
 
 <!--
 **estuhub/estuhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I enjoy playing with projects that involves JavaScript & React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
